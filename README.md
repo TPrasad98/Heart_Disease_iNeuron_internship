@@ -8,7 +8,7 @@ brute effects of covid 19 on all irrespective of any status. You
 are required to analyse this health and medical data for
 better future preparation.
 # Dataset 📀
-https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3YQ8
+https://archive.ics.uci.edu/ml/datasets/heart+disease
 # Technology �
 Business Intelligence
 # Domain 🏥
